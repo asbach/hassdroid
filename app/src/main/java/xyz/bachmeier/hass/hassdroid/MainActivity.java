@@ -1,4 +1,4 @@
-package xyu.bachmeier.hass.hassdroid;
+package xyz.bachmeier.hass.hassdroid;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;

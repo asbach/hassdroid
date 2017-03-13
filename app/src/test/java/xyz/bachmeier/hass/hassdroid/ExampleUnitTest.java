@@ -1,4 +1,4 @@
-package xyu.bachmeier.hass.hassdroid;
+package xyz.bachmeier.hass.hassdroid;
 
 import org.junit.Test;
 

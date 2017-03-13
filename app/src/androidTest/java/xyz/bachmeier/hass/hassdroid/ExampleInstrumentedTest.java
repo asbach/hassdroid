@@ -1,4 +1,4 @@
-package xyu.bachmeier.hass.hassdroid;
+package xyz.bachmeier.hass.hassdroid;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("xyu.bachmeier.hass.homedroidassistant", appContext.getPackageName());
+        assertEquals("xyz.bachmeier.hass.homedroidassistant", appContext.getPackageName());
     }
 }
