@@ -6,5 +6,5 @@ package xyz.bachmeier.hass.hassdroid.network;
 
 public interface RestApi {
 
-    
+
 }
